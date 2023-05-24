@@ -7,7 +7,7 @@
     </head>
 
   <body>
-      <h2> Summerville "THE NEVERLAND"</h2>
+      <h1> Summerville "THE NEVERLAND"</h1>
       <li>Family rides</li>
 
       <li>Adult rides</li>
