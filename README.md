@@ -19,7 +19,7 @@
   *{
   font-size:normal;
   font-family:"Times New Roman";
-  background-color:light-blue;}
+  background-color:lightblue;}
 
 .rides{
 
