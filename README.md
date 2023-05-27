@@ -38,7 +38,7 @@
 <body style="background-color:rgb(255,255,255)">
 
 <h1 id="tit" style="text-align:center;background-color:rgb(27, 149, 224);color:white;">SUMMERVILLE "THE NEVERLAND"</h1>
-<img src="Pic.png" alt="logo">
+<img src="Pic.png" alt="logo" style="width:200px;height:200px;">
 
 
 
