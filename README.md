@@ -16,6 +16,10 @@
 <head>
 
 <style>
+  *{
+  font-size:normal;
+  font-family:"Times New Roman";
+  background-color:light-blue;}
 
 .rides{
 
