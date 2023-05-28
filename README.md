@@ -66,7 +66,7 @@ table{
       <br><br>
 <div><h4 class="cont">Timings</h4></div>
       <p style="text-align: center;">9AM-6PM</p>
-      <p style="text-align: center;">Except Tuesday</p>
+      <p style="text-align: center;">Except Tuesday</p><br><br>
       
 
 
