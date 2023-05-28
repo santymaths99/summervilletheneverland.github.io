@@ -94,7 +94,7 @@ td{padding:20px;}
 
 <td><a class="link" href="index2.html">FREAKY FETE 2023</a></td>
 
-<td><a class="link" href="index3.html">Packages</a></td>
+
 
 <td><a class="link" href=#c>Contact Us</a></td></tr>
 
