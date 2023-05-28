@@ -12,7 +12,8 @@ font-size:normal;
      text-align:center;
      }h1{
     font-size:2em;}
-
+p{
+   font-size:0.7em;}
 table{
          font-size:large;
          border:1px solid black;
