@@ -7,47 +7,25 @@
 
 *{font-family:'Times New Roman';font-size:normal;}
 
-#topic{ color:white;background-color:rgb(27, 149, 224); text-align:center;font-size:39px;
-
-     }
-
-
-
-
+#topic{ color:white;background-color:rgb(27, 149, 224);text-align:center;font-size:39px; }
 
 p,i{font-size:20px;}
 
 li{font-size:16.4px;}
 
-#table{font-size:large;
-
-         border:1px solid black;
-
-         width:100%;
-
-         background-color:brown;     }
+#table{font-size:large;border:1px solid black;width:100%;background-color:brown; }
 
 #about{text-align:center;color:blue;}
 
-.link{color:white;
+.link{color:white; text-decoration:none;font-size:40px;}
 
-    text-decoration:none;
+.center {display: block;margin-left: auto;margin-right: auto;width: 50%;}
 
-    font-size:40px;}
-
-.center {display: block;
-
-margin-left: auto;margin-right: auto;width: 50%;}
-
-.cont{text-align:center;color: black;
-
-   font-size:50px;}
+.cont{text-align:center;color: black;font-size:50px;}
 
 td{padding:20px;}
 
-.rides{font-size:30px;color:blue;
-
-text-align:center;}
+.rides{font-size:30px;color:blue;text-align:center;}
 
 </style>
 </head>
