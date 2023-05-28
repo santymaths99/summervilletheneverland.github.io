@@ -130,7 +130,7 @@ td{padding:20px;}
 
 <hr>
 
-<div id="c"><h4 id="about"> Contact Us</h2>
+<div id="c"><h4 id="about"> Contact Us</h4>
 
 <h6 style="color: red;text-align:center">Address : No.231, E.C.R., Injambakam, Chennai-600 115</h6>
 
