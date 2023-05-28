@@ -52,9 +52,9 @@ table{
 
 <br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <br><br><br>
 <hr>
 <div id="c"><h2 id="about"> Contact Us</h2>
