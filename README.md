@@ -23,7 +23,7 @@
 
 table{
   width:100%;
-  border:1px;
+  border:1px solid black; 
 
   }
 
