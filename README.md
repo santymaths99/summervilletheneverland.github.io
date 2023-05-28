@@ -69,7 +69,7 @@ table{
 
 <h1 id="topic"> SUMMERVILLE "THE NEVERLAND"</h1>
 
-<img src="pic.png"><br>
+<img src="Pic.png"><br>
 
 <table id="table">
 
