@@ -10,7 +10,7 @@
 
   margin-right: auto;
 
-  width: 50%;
+  width: 
 
 }
     *{font-family:'Times New Roman';
