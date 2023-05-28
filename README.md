@@ -21,7 +21,9 @@
   font-family:"Times New Roman";
   background-color:;}
 
-
+table{
+  width:100%;
+  }
 
 </style>
 
