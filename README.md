@@ -24,7 +24,7 @@ font-size:normal;
      }
 
 table{
-         font-size:2em;
+         font-size:4em;
          border:1px solid black;
          width:100%;
          background-color:brown;
