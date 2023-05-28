@@ -2,7 +2,17 @@
 <head>
 <title>Summerville "The Neverland"</title>
 <style>
+.center {
 
+  display: block;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  width: 50%;
+
+}
     *{font-family:'Times New Roman';
 font-size:normal;
 }
