@@ -61,8 +61,8 @@ table{
       <h5 style="color:blue;">"Unleash your innerchild at Summerville 'The Neverland' awaits!"</h5>
 <br><br>
       <div><h4 class="cont">Price</h4></div>
-      <p style="text-align: center;">For Adults(Above 130cm):₹700</p>
-      <p style="text-align: center;">For Child (Above 110cm):₹500</p>
+      <p style="text-align: center;">For Adults(Above 130cm): ₹700</p>
+      <p style="text-align: center;">For Child (Below 130cm): ₹500</p>
 <div><h4 class="cont">Timings</h4></div>
       <p style="text-align: center;">9AM-6PM</p>
       <p style="text-align: center;">Except Tuesday</p>
