@@ -11,7 +11,7 @@
   margin-right: auto;
 
   width: 50px;
-  height:50px;
+
 
 }
     *{font-family:'Times New Roman';
@@ -24,14 +24,14 @@ font-size:normal;
      }
 
 table{
-         font-size:4em;
+         
          border:1px solid black;
          width:100%;
          background-color:brown;
          }
-  td{
-  font-size:4em;
-  }
+ 
+  
+
 #about{
     text-align:center;
     color:blue;
