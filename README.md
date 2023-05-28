@@ -3,81 +3,53 @@
 <head>
 
 <title>Summerville "The Neverland"</title>
-
 <style>
 
-    *{font-family:'Times New Roman';
+*{font-family:'Times New Roman';font-size:normal;}
 
-font-size:normal;
+#topic{ color:white;background-color:rgb(27, 149, 224); text-align:center;
 
-}
+     }
 
-#topic{
+    h1{
 
-     color:white;
+   font-size:40px;}
 
-     background-color:rgb(27, 149, 224);
+p,i{font-size:20px;}
 
-     text-align:center;
+li{font-size:18px;}
 
-     }h1{
-
-    font-size:2em;}
-
-p,i{
-
-   font-size:0.55em;}
-
-table{
-
-         font-size:large;
+#table{font-size:large;
 
          border:1px solid black;
 
          width:100%;
 
-         background-color:brown;
+         background-color:brown;     }
 
-         }
+#about{text-align:center;color:blue;}
 
-#about{
-
-    text-align:center;
-
-    color:blue;
-
-}
-
-.link{
-
-    color:white;
+.link{color:white;
 
     text-decoration:none;
 
-    font-size:1.7em;
+    font-size:40px;}
 
-    }
+.center {display: block;
 
-   .center {
+margin-left: auto;margin-right: auto;width: 50%;}
 
-  display: block;
+.cont{text-align:center;color: black;
 
-  margin-left: auto;
+   font-size:50px;}
 
-  margin-right: auto;
-
-  width: 50%;
-
-}
-
-   .cont{
-
-   text-align:center;
-
-   color:red;}
 td{padding:20px;}
-</style>
 
+.rides{font-size:30px;color:blue;
+
+text-align:center;}
+
+</style>
 </head>
 
 <body>
