@@ -23,6 +23,8 @@
 
 table{
   width:100%;
+  background-color:blue;
+  color:white;
   }
 
 </style>
