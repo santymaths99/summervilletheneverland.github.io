@@ -63,6 +63,7 @@ table{
       <div><h4 class="cont">Price</h4></div>
       <p style="text-align: center;">For Adults(Above 130cm): ₹700</p>
       <p style="text-align: center;">For Child (Below 130cm): ₹500</p>
+      <br><br>
 <div><h4 class="cont">Timings</h4></div>
       <p style="text-align: center;">9AM-6PM</p>
       <p style="text-align: center;">Except Tuesday</p>
