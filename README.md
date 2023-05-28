@@ -23,10 +23,10 @@
 
 table{
   width:100%;
-  border:1px solid black; 
+  border:1px solid; 
 font-size:large;
-  }
-
+border-spacing:20px;
+}
 </style>
 
 <title>SUMMERVILLE "THE NEVERLAND"</title></head>
