@@ -37,7 +37,7 @@ table{
 <img src="Pic.png" alt="logo" style="width:200px;height:200px;">
 <table>
   <tr>
-<td><a href="README.md">Home</a></td>
+<td><a href="index.html">Home</a></td>
 <td><a href="index1.html">Rides</a></td>
   <td><a href="index2.html">Packages</a></td>
 <td><a href="index3.html">FREAKY FETE 2023</a></td>
