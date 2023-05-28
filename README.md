@@ -54,7 +54,7 @@ table{
 
     text-decoration:none;
 
-    font-size:1.45em;
+    font-size:1.7em;
 
     }
 
