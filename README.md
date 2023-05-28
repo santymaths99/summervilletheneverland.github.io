@@ -3,13 +3,14 @@
 <head>
 
 <title>Summerville "The Neverland"</title>
+
 <style>
 
 *{font-family:'Times New Roman';font-size:normal;}
 
-#topic{ color:white;background-color:rgb(27, 149, 224);text-align:center;font-size:39px; }
+#topic{ color:white;background-color:rgb(27, 149, 224);text-align:center;font-size:35px; }
 
-p,i{font-size:20px;}
+p,i{font-size:10px;}
 
 li{font-size:16.4px;}
 
@@ -21,13 +22,16 @@ li{font-size:16.4px;}
 
 .center {display: block;margin-left: auto;margin-right: auto;width: 50%;}
 
-.cont{text-align:center;color: black;font-size:50px;}
+.cont{text-align:center;
+
+color:black;font-size:50px;}
 
 td{padding:20px;}
 
 .rides{font-size:30px;color:blue;text-align:center;}
 
 </style>
+
 </head>
 
 <body>
@@ -44,15 +48,11 @@ td{padding:20px;}
 
 <td><a class="link" href="index2.html">FREAKY FETE 2023</a></td>
 
-
-
 <td><a class="link" href=#c>Contact Us</a></td></tr>
 
-</table>
+</table><br>
 
-<br>
-
-   <div><h4 class="cont">About the park</h4></div>
+ <div><h4 class="cont">About the park</h4></div>
 
    <div><p>Welcome to discover an out of the world fun, excitement , adventure , and enchanting environment at Summerville "The Neverland". Our several acre amusement park is located in Injambakam, Chennai. Summerville has grown over the last 5 years to become the largest in the area. This ultimate holiday destination offers you a variety of fabulous water rides, mind-boggling dry vides, resorts and much more. "Great place and Great Fun". Do visit our exciting Summerville to experience the fun. Bring your camera fully loaded as there to enough food for your cameras in our park. </p>
 
@@ -72,15 +72,9 @@ td{padding:20px;}
 
       <p style="text-align: center;">9AM-6PM</p>
 
-      <p style="text-align: center;">Except Tuesday</p>
+      <p style="text-align: center;">Except Tuesday</p><br><br><hr>
 
-      
-
-<br><br>
-
-<hr>
-
-<div id="c"><h4 id="about"> Contact Us</h4>
+<div id="c"><h5 id="about"> Contact Us</h4>
 
 <h6 style="color: red;text-align:center">Address : No.231, E.C.R., Injambakam, Chennai-600 115</h6>
 
