@@ -75,7 +75,7 @@ table{
    text-align:center;
 
    color:red;}
-
+td{padding:20px;}
 </style>
 
 </head>
