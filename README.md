@@ -10,7 +10,8 @@
 
   margin-right: auto;
 
-  width: 
+  width: 100px;
+  height:100px;
 
 }
     *{font-family:'Times New Roman';
