@@ -21,15 +21,7 @@
   font-family:"Times New Roman";
   background-color:;}
 
-.rides{
 
-    color:red;
-
-    font-size: large;
-
-    font-family:"Times New Roman";
-
-    }
 
 </style>
 
@@ -39,21 +31,17 @@
 
 <h1 id="tit" style="text-align:center;background-color:rgb(27, 149, 224);color:white;">SUMMERVILLE "THE NEVERLAND"</h1>
 <img src="Pic.png" alt="logo" style="width:200px;height:200px;">
+<table>
+  <th>
+<tr><td><a href="README.md">Home</a></td>
+<td><a href="index1.html">Rides</a></td>
+  <td><a href="index2.html">Packages</a></td>
+<td><a href="index3.html">FREAKY FETE 2023</a></td>
+<td><a href="index4.html"> About Us</a></td>
+  </tr></th></table>
+  
 
 
-
-
-<ul> 
-
-<li class="rides">Water Rides</li>
-
-<li class="rides">Adult Rides</li>
-
-<div><li class="rides">Family Rides</li></div>
-
-<div><li class="rides">Children Rides</li></div>
-
-</ul>
 
 </body>
 
