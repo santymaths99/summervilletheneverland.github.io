@@ -23,7 +23,7 @@ font-size:normal;
      }
 
 table{
-         font-size:large;
+         font-size:2em;
          border:1px solid black;
          width:100%;
          background-color:brown;
