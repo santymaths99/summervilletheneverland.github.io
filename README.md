@@ -29,6 +29,9 @@ table{
          width:100%;
          background-color:brown;
          }
+  td{
+  font-size:4em;
+  }
 #about{
     text-align:center;
     color:blue;
