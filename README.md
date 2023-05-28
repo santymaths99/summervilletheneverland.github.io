@@ -104,7 +104,7 @@ table{
 
    <div><h4 class="cont">About the park</h4></div>
 
-   <div><p>Welcome to discover an out of the world fun, excitement , adventure , and enchanting environment at Summerville "The Neverland". Our several acre amusement park is located in Injambakam, Chennai. Summerville has grown over the last 5 years to become the largest in the area. This ultimate holiday destination offers you a variety of fabulous water rides, mind-boggling dry vides, resorts and much more. "Great place and Great Fun". Do visit our exciting Summerville to experience the fun. Bring your camera fully loaded as there to ensough food for your cameras in our park. </p>
+   <div><p>Welcome to discover an out of the world fun, excitement , adventure , and enchanting environment at Summerville "The Neverland". Our several acre amusement park is located in Injambakam, Chennai. Summerville has grown over the last 5 years to become the largest in the area. This ultimate holiday destination offers you a variety of fabulous water rides, mind-boggling dry vides, resorts and much more. "Great place and Great Fun". Do visit our exciting Summerville to experience the fun. Bring your camera fully loaded as there to enough food for your cameras in our park. </p>
 
       <i style="color:blue;text-align: center;">"Unleash your innerchild at Summerville 'The Neverland' awaits!"</i>
 
