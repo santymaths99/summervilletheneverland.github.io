@@ -54,14 +54,20 @@ table{
 <td><a class="link" href="index3.html">Packages</a></td>
 <td><a class="link" href=#c>Contact Us</a></td></tr>
 </table>
-<br>
+<br><br>
 
-<br><br><br><br>
    <div><h4 class="cont">About the park</h4></div>
    <div><p>Welcome to discover an out of the world fun, excitement , adventure , and enchanting environment at Summerville "The Neverland". Our several acre amusement park is located in Injambakam, Chennai. Summerville has grown over the last 5 years to become the largest in the area. This ultimate holiday destination offers you a variety of fabulous water rides, mind-boggling dry vides, resorts and much more. "Great place and Great Fun". Do visit our exciting Summerville to experience the fun. Bring your camera fully loaded as there to ensough food for your cameras in our park. </p>
       <h5 style="color:blue;">"Unleash your innerchild at Summerville 'The Neverland' awaits!"</h5>
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br>
+      <div><h4 class="cont">Price</h4></div>
+      <p style="text-align: center;">For Adults(Above 130cm):₹700</p>
+      <p style="text-align: center;">For Child (Above 110cm):₹500</p>
+<div><h4 class="cont">Timings</h4></div>
+      <p style="text-align: center;">9AM-6PM</p>
+      <p style="text-align: center;">Except Tuesday</p>
+      
+
 
 
 <hr>
