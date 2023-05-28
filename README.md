@@ -7,17 +7,17 @@
 
 *{font-family:'Times New Roman';font-size:normal;}
 
-#topic{ color:white;background-color:rgb(27, 149, 224); text-align:center;
+#topic{ color:white;background-color:rgb(27, 149, 224); text-align:center;font-size:39px;
 
      }
 
-    h1{
 
-   font-size:40px;}
+
+
 
 p,i{font-size:20px;}
 
-li{font-size:18px;}
+li{font-size:16.4px;}
 
 #table{font-size:large;
 
