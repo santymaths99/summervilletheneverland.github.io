@@ -18,7 +18,7 @@ td{padding:20px;}
 </head>
 <body>
 <h1 id="topic"> SUMMERVILLE "THE NEVERLAND"</h1>
-<img src="Pic.png" class="center"><br>
+<img src="Pic.png" width="100" height="100" class="center"><br>
 <table id="table">
 <tr><td><a class="link" href="index.html">Home</a></td>
 <td><a class="link" href="index1.html">Rides</a></td>
