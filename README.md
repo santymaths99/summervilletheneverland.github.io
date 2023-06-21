@@ -9,7 +9,7 @@ li{font-size:0.75px;}
 #table{font-size:large;border:1px solid black;width:100%;background-color:brown; }
 #about{text-align:center;color:blue;}
 .link{color:white; text-decoration:none;font-size:2.25em;}
-.center {display: block;margin-left: auto;margin-right: auto;width: 50%;}
+.center {display: block;margin-left: auto;margin-right: auto;}
 .cont{text-align:center;
 color:black;font-size:2em;}
 td{padding:20px;}
@@ -18,7 +18,7 @@ td{padding:20px;}
 </head>
 <body>
 <h1 id="topic"> SUMMERVILLE "THE NEVERLAND"</h1>
-<img src="Pic.png" width="100" height="100" class="center"><br>
+<img src="Pic.png" width="150" height="150" class="center"><br>
 <table id="table">
 <tr><td><a class="link" href="index.html">Home</a></td>
 <td><a class="link" href="index1.html">Rides</a></td>
