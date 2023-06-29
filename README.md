@@ -19,7 +19,8 @@ td{padding:20px;}
 <body>
 <h1 id="topic"> SUMMERVILLE "THE NEVERLAND"</h1>
 <img src="Pic.png" width="150" height="150" class="center"><br>
-<table id="table">
+<a href="chessgame.html">chess</a>
+ <table id="table">
 <tr><td><a class="link" href="index.html">Home</a></td>
 <td><a class="link" href="index1.html">Rides</a></td>
 <td><a class="link" href="index2.html">FREAKY FETE 2023</a></td>
