@@ -19,7 +19,7 @@ td{padding:20px;}
 <body>
 <h1 id="topic"> SUMMERVILLE "THE NEVERLAND"</h1>
 <img src="Pic.png" width="150" height="150" class="center"><br>
-<a href="chessgame.html">chess</a>
+
  <table id="table">
 <tr><td><a class="link" href="index.html">Home</a></td>
 <td><a class="link" href="index1.html">Rides</a></td>
@@ -38,6 +38,7 @@ td{padding:20px;}
       <p style="text-align: center;">9AM-6PM</p>
       <p style="text-align: center;">Except Tuesday</p><br><br><hr>
 <div id="c"><h5 id="about"> Contact Us</h4>
+ <a href="chessgame.html">chess</a>
 <h6 style="color: red;text-align:center">Address : No.231, E.C.R., Injambakam, Chennai-600 115</h6>
 <h6 style="color:red;text-align:center">Contact : 044 2600 2600, 044 2800 2800</h6>
 </div>
