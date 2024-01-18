@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
 <title>Summerville "The Neverland"</title>
-<!--<style>
+<style>
 *{font-family:'Times New Roman';font-size:normal;}
 #topic{ color:white;background-color:rgb(27, 149, 224);text-align:center;font-size:35px; }
 p,i{font-size:0.75em;}
@@ -14,7 +14,7 @@ li{font-size:0.75px;}
 color:black;font-size:2em;}
 td{padding:20px;}
 .rides{font-size:2em;color:blue;text-align:center;}
-</style>-->
+</style>
 </head>
 <body>
 <h1 id="topic"> SUMMERVILLE "THE NEVERLAND"</h1>
